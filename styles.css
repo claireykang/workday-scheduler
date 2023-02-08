@@ -1,0 +1,28 @@
+.rectangle {
+  background-color: rgb(188, 188, 235);
+  color: rgb(216, 59, 59);
+  padding: 10px;
+  border: solid 3px black;
+  display: flex;
+  align-items: center;
+  margin: 24px;
+}
+
+.input-area {
+  display: flex;
+  align-items: center;
+}
+
+.box-elements {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.pinkbkg {
+  background-color: rgb(248, 205, 212);
+}
+
+.greenbkg {
+  background-color: rgb(197, 245, 202);
+}
